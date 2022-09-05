@@ -1,1 +1,1 @@
-display the content of /etc/passwd and /etc/hosts
+Write a script that displays the third line of the file iacta
