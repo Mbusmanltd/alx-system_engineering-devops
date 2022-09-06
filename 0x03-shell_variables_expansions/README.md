@@ -1,1 +1,1 @@
-Create a script that counts the number of directories in the PATH
+Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII
